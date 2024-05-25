@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uberjfw
-- 👀 I’m building www.peoplemetrics.fyi in public
+- 👀 I’m building www.peoplemetrics.fyi and www.openorg.fyi in public
 - 🌱 I’m currently learning react and SQL
 - 💞️ I’m looking to collaborate on any open source projects that help startup people leaders
 - 📫 How to reach me john@openorg.fyi
